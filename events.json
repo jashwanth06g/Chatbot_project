@@ -1,0 +1,290 @@
+[
+    {
+        "event_name": "Tech Talk on AI",
+        "category": "Technology",
+        "location": "Chennai",
+        "date": "2025-01-10",
+        "description": "A session on the latest advancements in Artificial Intelligence.",
+        "ticket_price": "₹500"
+    },
+    {
+        "event_name": "Street Food Festival",
+        "category": "Food",
+        "location": "Coimbatore",
+        "date": "2025-02-03",
+        "description": "Experience the best street foods from around the world.",
+        "ticket_price": "₹200"
+    },
+    {
+        "event_name": "Music Concert",
+        "category": "Music",
+        "location": "Madurai",
+        "date": "2025-02-14",
+        "description": "A concert featuring popular Tamil musicians.",
+        "ticket_price": "₹800"
+    },
+    {
+        "event_name": "Art Workshop",
+        "category": "Art",
+        "location": "Tirunelveli",
+        "date": "2025-01-20",
+        "description": "Learn the art of traditional Tamil painting.",
+        "ticket_price": "₹300"
+    },
+    {
+        "event_name": "Startup Networking Event",
+        "category": "Business",
+        "location": "Chennai",
+        "date": "2025-02-16",
+        "description": "Connect with investors and startups in Tamil Nadu.",
+        "ticket_price": "₹1000"
+    },
+    {
+        "event_name": "Yoga for Wellness",
+        "category": "Health",
+        "location": "Vellore",
+        "date": "2025-01-25",
+        "description": "A wellness program to learn and practice Yoga.",
+        "ticket_price": "₹400"
+    },
+    {
+        "event_name": "Digital Marketing Workshop",
+        "category": "Business",
+        "location": "Tiruchirappalli",
+        "date": "2025-01-30",
+        "description": "A workshop to enhance your digital marketing skills.",
+        "ticket_price": "₹600"
+    },
+    {
+        "event_name": "Photography Exhibition",
+        "category": "Art",
+        "location": "Erode",
+        "date": "2025-02-05",
+        "description": "An exhibition showcasing photographs from local artists.",
+        "ticket_price": "₹150"
+    },
+    {
+        "event_name": "Cultural Dance Performance",
+        "category": "Culture",
+        "location": "Kanyakumari",
+        "date": "2025-02-10",
+        "description": "A traditional dance performance from Tamil Nadu.",
+        "ticket_price": "₹350"
+    },
+    {
+        "event_name": "Film Festival",
+        "category": "Entertainment",
+        "location": "Chennai",
+        "date": "2025-03-01",
+        "description": "A screening of the latest Tamil films.",
+        "ticket_price": "₹500"
+    },
+    {
+        "event_name": "Sports Meet",
+        "category": "Sports",
+        "location": "Salem",
+        "date": "2025-01-15",
+        "description": "A sports event featuring local talent.",
+        "ticket_price": "₹100"
+    },
+    {
+        "event_name": "AI & ML Conference",
+        "category": "Technology",
+        "location": "Coimbatore",
+        "date": "2025-03-05",
+        "description": "A conference on Artificial Intelligence and Machine Learning.",
+        "ticket_price": "₹1200"
+    },
+    {
+        "event_name": "Traditional Cuisine Festival",
+        "category": "Food",
+        "location": "Trichy",
+        "date": "2025-02-20",
+        "description": "Taste authentic traditional Tamil cuisine.",
+        "ticket_price": "₹300"
+    },
+    {
+        "event_name": "Public Speaking Workshop",
+        "category": "Skills",
+        "location": "Chennai",
+        "date": "2025-01-12",
+        "description": "Learn the art of public speaking and confidence building.",
+        "ticket_price": "₹500"
+    },
+    {
+        "event_name": "Startup Pitch Event",
+        "category": "Business",
+        "location": "Madurai",
+        "date": "2025-02-18",
+        "description": "Watch entrepreneurs pitch their startup ideas.",
+        "ticket_price": "₹700"
+    },
+    {
+        "event_name": "Music Festival",
+        "category": "Music",
+        "location": "Tirunelveli",
+        "date": "2025-02-26",
+        "description": "Join us for a lively music festival with local artists.",
+        "ticket_price": "₹450"
+    },
+    {
+        "event_name": "Startup Bootcamp",
+        "category": "Business",
+        "location": "Tiruchirappalli",
+        "date": "2025-03-10",
+        "description": "An intensive bootcamp for aspiring startup founders.",
+        "ticket_price": "₹1500"
+    },
+    {
+        "event_name": "Crafts Fair",
+        "category": "Art",
+        "location": "Madurai",
+        "date": "2025-01-25",
+        "description": "A fair featuring handmade crafts from local artisans.",
+        "ticket_price": "₹250"
+    },
+    {
+        "event_name": "AI Workshop for Beginners",
+        "category": "Technology",
+        "location": "Chennai",
+        "date": "2025-02-01",
+        "description": "A workshop introducing the basics of Artificial Intelligence.",
+        "ticket_price": "₹700"
+    },
+    {
+        "event_name": "Coding Bootcamp",
+        "category": "Technology",
+        "location": "Coimbatore",
+        "date": "2025-02-12",
+        "description": "A 5-day bootcamp on coding and programming.",
+        "ticket_price": "₹1200"
+    },
+    {
+        "event_name": "Science Fair",
+        "category": "Education",
+        "location": "Trichy",
+        "date": "2025-02-10",
+        "description": "An exhibition showcasing scientific projects by students.",
+        "ticket_price": "₹100"
+    },
+    {
+        "event_name": "Tech Startup Pitching",
+        "category": "Business",
+        "location": "Vellore",
+        "date": "2025-02-28",
+        "description": "A pitching event for tech startups to showcase their ideas.",
+        "ticket_price": "₹800"
+    },
+    {
+        "event_name": "Virtual Reality Showcase",
+        "category": "Technology",
+        "location": "Chennai",
+        "date": "2025-03-02",
+        "description": "A showcase of the latest in virtual reality technology.",
+        "ticket_price": "₹600"
+    },
+    {
+        "event_name": "Food Photography Workshop",
+        "category": "Food",
+        "location": "Madurai",
+        "date": "2025-02-22",
+        "description": "A workshop on how to take perfect food photographs.",
+        "ticket_price": "₹350"
+    },
+    {
+        "event_name": "Startup Success Stories",
+        "category": "Business",
+        "location": "Tirunelveli",
+        "date": "2025-01-29",
+        "description": "Learn from successful startup founders and their journey.",
+        "ticket_price": "₹1000"
+    },
+    {
+        "event_name": "Digital Transformation Conference",
+        "category": "Business",
+        "location": "Coimbatore",
+        "date": "2025-02-18",
+        "description": "A conference on the future of digital transformation.",
+        "ticket_price": "₹1500"
+    },
+    {
+        "event_name": "Fashion Show",
+        "category": "Entertainment",
+        "location": "Chennai",
+        "date": "2025-03-04",
+        "description": "A fashion show featuring Tamil designers.",
+        "ticket_price": "₹700"
+    },
+    {
+        "event_name": "Baking Workshop",
+        "category": "Food",
+        "location": "Erode",
+        "date": "2025-01-15",
+        "description": "Learn how to bake traditional Tamil sweets.",
+        "ticket_price": "₹300"
+    },
+    {
+        "event_name": "Business Idea Hackathon",
+        "category": "Business",
+        "location": "Trichy",
+        "date": "2025-02-22",
+        "description": "A hackathon for business ideation and startup development.",
+        "ticket_price": "₹1200"
+    },
+    {
+        "event_name": "Sculpture Exhibition",
+        "category": "Art",
+        "location": "Salem",
+        "date": "2025-03-01",
+        "description": "An exhibition showcasing sculptures by local artists.",
+        "ticket_price": "₹250"
+    },
+    {
+        "event_name": "Film Appreciation Course",
+        "category": "Education",
+        "location": "Chennai",
+        "date": "2025-01-25",
+        "description": "A course to learn the art of film appreciation.",
+        "ticket_price": "₹600"
+    },
+    {
+        "event_name": "Environmental Awareness Workshop",
+        "category": "Environment",
+        "location": "Tiruchirappalli",
+        "date": "2025-02-14",
+        "description": "A workshop to raise awareness about environmental issues.",
+        "ticket_price": "₹200"
+    },
+    {
+        "event_name": "Community Fitness Challenge",
+        "category": "Health",
+        "location": "Vellore",
+        "date": "2025-02-25",
+        "description": "Join the fitness challenge and improve your health.",
+        "ticket_price": "₹500"
+    },
+    {
+        "event_name": "Sustainable Fashion Conference",
+        "category": "Fashion",
+        "location": "Chennai",
+        "date": "2025-02-20",
+        "description": "A conference discussing the future of sustainable fashion.",
+        "ticket_price": "₹1200"
+    },
+    {
+        "event_name": "Coding for Kids Workshop",
+        "category": "Education",
+        "location": "Madurai",
+        "date": "2025-03-08",
+        "description": "A fun workshop introducing kids to coding and programming.",
+        "ticket_price": "₹350"
+    },
+    {
+        "event_name": "Craftsmanship Exhibition",
+        "category": "Art",
+        "location": "Kanyakumari",
+        "date": "2025-02-18",
+        "description": "An exhibition of handcrafted products by local artisans.",
+        "ticket_price": "₹200"
+    }
+]
